@@ -1,15 +1,19 @@
 <h1 align="left">🐧 I'm ezfuzzy (actually just fuzzy) 🐧 </h1>
-<h3 align="left">A backend developer in south korea.</h3>
+<h3 align="left"> <img width="55" alt="star1" src="https://user-images.githubusercontent.com/78655692/151471925-e5f35751-d4b9-416b-b41d-a059267a09e3.png">
+A <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> backend developer in south korea.</h3> 
+
+
 
 - Learning: **spring boot, kotlin, game, hacking, network, linux**
 
 - I’m looking for help with **납골당 중계 플랫폼 프로젝트**
 
-- Blog: [https://velog.io/@fuzzy](https://velog.io/@fuzzy)
+
 
 - Ask me about **c++, STL**
 
 - Mail: **mentor130630@gmail.com**
+- ## Blog: <a href="https://velog.io/@fuzzy"> <img height="30" src="https://cdn.simpleicons.org/velog?viewbox=auto" /> </a>
 
 <br><br>
 
@@ -23,7 +27,7 @@
 
 <h3 align="left">Channels</h3>
 <p align="left">
-<a href="https://instagram.com/ezfuzzy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezfuzzy_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uzzy _" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uzzy _" height="30" width="40" /></a>
+<a href="https://instagram.com/ezfuzzy_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezfuzzy_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCB0LNQHLnIv3Fa3ja3KVT1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uzzy _" height="30" width="40" /></a>
 </p>
 
