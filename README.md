@@ -25,6 +25,9 @@ A <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezfuzzy&show_icons=true&locale=en" alt="ezfuzzy" /></p>
 
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rucky29)](https://solved.ac/rucky29)
+
+<!-- channel -->
 <h3 align="left">Channels</h3>
 <p align="left">
 <a href="https://instagram.com/ezfuzzy_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezfuzzy_" height="30" width="40" /></a>
