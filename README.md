@@ -12,7 +12,7 @@ A <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e
 
 - Ask me about **c++, STL**
 
-- Mail: **mentor130630@gmail.com**
+- Mail: **ezfuzzy062@gmail.com**
 - ## Blog: <a href="https://velog.io/@fuzzy"> <img height="30" src="https://cdn.simpleicons.org/velog?viewbox=auto" /> </a>
 
 <br><br>
