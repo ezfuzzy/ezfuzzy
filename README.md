@@ -2,15 +2,13 @@
 <h3 align="left"> <img width="55" alt="star1" src="https://user-images.githubusercontent.com/78655692/151471925-e5f35751-d4b9-416b-b41d-a059267a09e3.png">
 A <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> backend developer in south korea.</h3> 
 
+- Having: **c++, java, spring boot, jpa, postgresql, aws, react**
 
+- Loving: **db, ai, aws** 
 
-- Learning: **spring boot, kotlin, game, hacking, network, linux**
+- Learning: **python, game, hacking, network, linux**
 
-- I’m looking for help with **납골당 중계 플랫폼 프로젝트**
-
-
-
-- Ask me about **c++, STL**
+- Ask me about **c++, STL, java**
 
 - Mail: **ezfuzzy062@gmail.com**
 - ## Blog: <a href="https://velog.io/@fuzzy"> <img height="30" src="https://cdn.simpleicons.org/velog?viewbox=auto" /> </a>
